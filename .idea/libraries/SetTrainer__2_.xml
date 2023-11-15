@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SetTrainer (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/SetTrainer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
